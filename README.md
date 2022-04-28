@@ -1,5 +1,3 @@
-# AbdullahAlyazidy
-
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="1206" class="">
     <defs>
         <style/>
